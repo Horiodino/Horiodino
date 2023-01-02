@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Horiodino
 - 👀 I’m currently interested in Devops
-- 🌱 I’m currently learning docker,k8 right now
-- 💞️ I’m looking to collaborate on devops
+- 🌱 I’m currently learning kubernetes and go-lang right now
+- 💞️ I’m looking  on devops
 - 📫 How to reach me just call me on discord
 
 <!---
