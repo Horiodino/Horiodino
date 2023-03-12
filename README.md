@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Horiodino
-- 👀 I’m currently interested in Devops
-- 🌱 I’m currently learning kubernetes and go-lang right now
-- 💞️ I’m looking  on devops
-- 📫 How to reach me just call me on discord
+- 🌱 I’m currently learning terraform and exploring cloud
+
+
 
 <!---
 Horiodino/Horiodino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
