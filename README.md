@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Horiodino
+- 👋 Hi, I’m @Horiodin
 - 🌱 I’m currently learning terraform and exploring cloud
+- right now im learning kubernetes security best practices
+- working on projects for more learning 
+- also exploring the open-source ;)
 
 
 
