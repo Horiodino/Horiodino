@@ -4,6 +4,12 @@
 - working on projects for more learning 
 - also exploring the open-source ;)
 
+- now have good knowladge of cloud #AZURE 
+- golang
+- jenkins
+- iac - Terraform
+- learning ansible ;)
+
 
 
 <!---
