@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@odinholi" target="blank"><img src="https://img.shields.io/twitter/follow/@odinholi?logo=twitter&style=for-the-badge" alt="@odinholi" /></a> </p>
 
-- 🔭 I’m currently working on terrago and ksctl [ksctl](https://github.com/Horiodino/ksctl.git)
+- 🔭 I’m currently working on terrago and [ksctl](https://github.com/Horiodino/ksctl.git)
 
 - 👯 I’m looking to collaborate on [terrago](https://github.com/Horiodino/terrago.git)
 
